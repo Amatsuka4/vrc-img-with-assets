@@ -11,8 +11,10 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
+    "konva": "^10.9.1",
+    "nuxt": "^3.21.11",
     "vue": "^3.5.44",
-    "nuxt": "^3.21.11"
+    "vue-konva": "^4.0.1"
   },
   "devDependencies": {
     "@types/node": "^24.19.2",
