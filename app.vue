@@ -1,3 +1,7 @@
+<template>
+  <NuxtPage />
+</template>
+
 <script setup lang="ts">
 useSeoMeta({
   title: 'VRChat アバター使用アセット画像メーカー',
@@ -7,9 +11,3 @@ useSeoMeta({
   ogType: 'website',
 })
 </script>
-
-<template>
-  <main>
-    <h1>アバター写真と使用アセットを紐づけた画像を作るWebアプリ（名称未定）</h1>
-  </main>
-</template>
